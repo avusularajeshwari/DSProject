@@ -18,3 +18,27 @@ Price: 1499.0
 Discount: 8.0
 Finalprice: 1379.08
 -----------------------------
+Product Id: 104
+Product Name: Saree
+Price: 2500.0
+Discount: 6.0
+Finalprice: 2350.0
+-----------------------------
+Product Id: 105
+Product Name: Shirt
+Price: 340.0
+Discount: 3.0
+Finalprice: 329.8
+-----------------------------
+Product Id: 106
+Product Name: T-shirt
+Price: 250.0
+Discount: 2.0
+Finalprice: 245.0
+-----------------------------
+Product Id: 107
+Product Name: Frocks
+Price: 4500.0
+Discount: 15.0
+Finalprice: 3825.0
+-----------------------------
